@@ -2,11 +2,10 @@ import styled from "styled-components";
 
 export const CounterStyle = styled.ul`
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
   display: flex;
   list-style: none;
   gap: 1rem;
-  background-color: rgba(37, 50, 66, 255);
   width: fit-content;
   padding: 3rem;
 

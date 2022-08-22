@@ -5,6 +5,12 @@ const StyledContainer = styled.div`
   margin: 0 auto;
   width: 90%;
   max-width: 1200px;
+
+  & h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
 `;
 
 const Layout = (): JSX.Element => {
