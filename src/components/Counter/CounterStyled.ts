@@ -9,7 +9,7 @@ export const CounterStyle = styled.ul`
   width: fit-content;
   padding: 3rem;
 
-  & li {
+  li {
     display: flex;
     flex-direction: column;
     align-items: center;
