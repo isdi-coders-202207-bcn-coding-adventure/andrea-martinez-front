@@ -1,11 +1,10 @@
 import Layout from "./components/Layout/Layout";
-import Counter from "./components/Counter/Counter";
+import React from "react";
 
 const App = (): JSX.Element => {
   return (
     <>
       <Layout />
-      <Counter />
     </>
   );
 };
